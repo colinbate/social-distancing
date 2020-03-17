@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Tips & Tricks
+  title: Tips, Tricks & Tales
   section_id: hero
   component: hero_block.html
   subtitle: "### Stuck at home? No problem."
