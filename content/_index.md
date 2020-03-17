@@ -22,24 +22,6 @@ sections:
   title: Recent Posts
   section_id: posts
   component: postlist.html
-- type: textimageblock
-  template: textimageblock
-  title: A Cat
-  section_id: cat
-  component: text_image_block.html
-  text: "Hi this is my text and image block. Vis accumsan feugiat adipiscing nisl
-    amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet
-    placerat commodo. \nInterdum ante aliquet commodo accumsan vis phasellus adipiscing.
-    Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-    ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa
-    faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc
-    adipiscing lacinia erat ut sit. Arcu amet. \nId massa aliquet arcu accumsan lorem
-    amet accumsan.\n\nInterdum ante aliquet commodo accumsan vis phasellus adipiscing.
-    Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-    ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa
-    faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc
-    adipiscing lacinia erat ut sit. Arcu amet. "
-  image: images/art.svg
 layout: home
 menu:
   main:
